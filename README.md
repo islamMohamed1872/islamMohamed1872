@@ -23,20 +23,20 @@ I love solving real-world problems through clean architecture, Firebase integrat
 #### 🏥 [Enaya - عناية](https://play.google.com/store/apps/details?id=com.afaqalspl.hakema)
 > A comprehensive healthcare and clinic management Flutter application that helps users book appointments, track medical records, and manage clinic operations with ease.
 
-#### ⛽ [PetroBank]
+#### ⛽ PetroBank
 > A smart fuel station locator and service management app built with Flutter.
 PetroBank helps drivers find the nearest gas stations, compare fuel prices, and navigate to the best options with ease.
 
-#### 🍔 [Foodivo]
+#### 🍔 Foodivo
 > A food delivery application, allowing users to browse restaurants, place orders, and track deliveries — all built with Flutter and Firebase.
 
-#### 📱 [Spana - Home Services App]
+#### 📱 Spana - Home Services App
 > Flutter app connecting users with home service providers. Built with Firebase & clean architecture.
 
-#### 🏨 [Cairo City Center Hotel System]
+#### 🏨 Cairo City Center Hotel System
 > A desktop app for managing reservations, accounts, and staff schedules using Flutter and Firebase.
 
-#### ☕ [Coffee Shop App]
+#### ☕ Coffee Shop App
 > Complete delivery app with admin dashboard, Firestore backend, and product management.
 
 
@@ -60,6 +60,7 @@ PetroBank helps drivers find the nearest gas stations, compare fuel prices, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/islam-mohamed-849047227/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:islam.mohamed1872@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/islamMohamed1872)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201554270294)
 
 ---
 
