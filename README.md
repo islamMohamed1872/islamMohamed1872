@@ -9,10 +9,9 @@ I love solving real-world problems through clean architecture, Firebase integrat
 
 ### 💼 About Me
 - 🎓 Computer and Information Science graduate, Ain Shams University (2024)
-- 💻 Flutter Developer with 3+ years of experience
-- 👨‍🏫 Part-time Instructor at Timedoor Academy (teaching kids programming)
-- ⚙️ Experienced with: Flutter • Firebase • APIs • State Management (Cubit, Bloc, Provider)
-- 🧠 Interested in: Machine Learning • Islamic Apps • IoT & Real-time Systems
+- 💻 Flutter Developer with 2+ years of experience
+- ⚙️ Experienced with: Flutter • Firebase • APIs • State Management (Cubit, Bloc)
+- 🧠 Interested in: Business Analysis • Machine Learning • IoT & Real-time Systems
 
 ---
 
