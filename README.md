@@ -16,11 +16,14 @@ I love solving real-world problems through clean architecture, Firebase integrat
 ---
 
 ### 🧩 Featured Projects
-#### 🕋 [Mostakeem - مستقيم](https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf)
+#### 🕋 Mostakeem - مستقيم
 > A modern Islamic app for Quran reading, prayer times, Qibla, Azan notifications and more.
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf)
+[![Download on the App Store](https://img.shields.io/badge/Download%20on%20the-App%20Store-0D96F6?style=for-the-badge&logo=apple)](https://apps.apple.com/eg/app/mostakeem-%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85/id6754695857)
 
-#### 🏥 [Enaya - عناية](https://play.google.com/store/apps/details?id=com.afaqalspl.hakema)
+#### 🏥 Enaya - عناية
 > A comprehensive healthcare and clinic management Flutter application that helps users book appointments, track medical records, and manage clinic operations with ease.
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.afaqalspl.hakema)
 
 #### ⛽ PetroBank
 > A smart fuel station locator and service management app built with Flutter.
