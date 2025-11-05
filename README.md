@@ -18,12 +18,23 @@ I love solving real-world problems through clean architecture, Firebase integrat
 ### 🧩 Featured Projects
 #### 🕋 Mostakeem - مستقيم
 > A modern Islamic app for Quran reading, prayer times, Qibla, Azan notifications and more.
-[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf)
-[![Download on the App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/mostakeem-%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85/id6754695857)
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/eg/app/mostakeem-%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85/id6754695857">
+    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
+
 
 #### 🏥 Enaya - عناية
 > A comprehensive healthcare and clinic management Flutter application that helps users book appointments, track medical records, and manage clinic operations with ease.
-[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.afaqalspl.hakema)
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.afaqalspl.hakema">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
 
 #### ⛽ PetroBank
 > A smart fuel station locator and service management app built with Flutter.
