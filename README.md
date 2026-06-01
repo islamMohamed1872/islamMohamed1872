@@ -19,10 +19,10 @@ I love solving real-world problems through clean architecture, Firebase integrat
 #### 👥 Raqm HR
 > An HR management application designed to help employees and organizations manage requests efficiently, track their status, and improve internal communication from one place.
 <p align="left">
-  <a href="[https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf](https://play.google.com/store/apps/details?id=com.afaqalspl.raqm](https://play.google.com/store/apps/details?id=com.afaqalspl.raqm)">
+  <a href="https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf">
     <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
-  <a href="[https://apps.apple.com/eg/app/mostakeem-%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85/id6754695857](https://apps.apple.com/us/app/raqm-hr/id6764306019)">
+  <a href="https://apps.apple.com/eg/app/mostakeem-%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85/id6754695857">
     <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </p>
@@ -31,10 +31,10 @@ I love solving real-world problems through clean architecture, Firebase integrat
 #### 🛍️ Lavanda
 > A Flutter e-commerce application built using Clean Architecture and Cubit state management. It includes product browsing, category management, shopping cart functionality, and payment gateway integration.
 <p align="left">
-  <a href="[[https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf](https://play.google.com/store/apps/details?id=com.afaqalspl.raqm](https://play.google.com/store/apps/details?id=com.afaqalspl.raqm)](https://play.google.com/store/apps/details?id=com.lavanda.app)">
+  <a href="https://play.google.com/store/apps/details?id=com.afaqalspl.moshaf">
     <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
-  <a href="[[https://apps.apple.com/eg/app/mostakeem-%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85/id6754695857](https://apps.apple.com/us/app/raqm-hr/id6764306019)](https://apps.apple.com/us/app/lavanda-cosmetics/id6761323266)">
+  <a href="https://apps.apple.com/eg/app/mostakeem-%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85/id6754695857">
     <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </p>
